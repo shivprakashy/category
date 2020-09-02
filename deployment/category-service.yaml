@@ -5,7 +5,7 @@ metadata:
     app: category
     servicefor: category
   name: category
-  namespace: [student-name]
+  namespace: shiv-anubhav
 spec:
   ports:
   - port: 8080

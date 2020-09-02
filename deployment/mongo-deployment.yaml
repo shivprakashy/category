@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: mongo
-  namespace: [student-name]
+  namespace: shiv-anubhav
   labels:
     app: mongo
 spec:
